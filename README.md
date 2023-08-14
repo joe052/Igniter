@@ -1,5 +1,5 @@
 # Igniter
-PHP code igniterframework
+PHP code igniter framework
 
 ## Setup
 1. Download and install composer
